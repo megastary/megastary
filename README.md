@@ -37,9 +37,14 @@ You can contact me via various sources, linked from most used to least:
 - Discord: Megastary#5093
 - E-Mail: megova@prdelka.eu
 - Steam: https://steamcommunity.com/id/megastary/
+- Linkedin: https://www.linkedin.com/in/jakub-%C5%A1indel%C3%A1%C5%99-66631a137/
 - Twitter: https://twitter.com/megastary
 
-<!---
-megastary/megastary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎡 Interests
+
+Here is list of interesting repos I either create, collaborate on or just like it and want to keep it for future use.
+
+|Name|Description|
+|----|-----------|
+|[megastary's gists](https://gist.github.com/megastary)|My gists. Mostly solutions to coding challenges or PowerShell scripts.|
+|[Lazy Admin](https://github.com/houby-studio/lazy-admin)|Project I have spent most of the time and gave it lot of ♥. Universal GUI for PowerShell scripts.|
