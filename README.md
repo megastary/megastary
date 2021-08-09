@@ -26,7 +26,7 @@ I love playing around with:
 
 ## 🌱 Learning
 
-All I do is learning every day. I learn by working. I wirk by learning. I learn by playing. I play by learning.  
+All I do is **learning**. Every single day. I learn by working. I work by learning. I learn by playing. I play by learning.  
 
 ## 💞️ Collaborate
 
