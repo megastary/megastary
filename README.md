@@ -23,6 +23,7 @@ I love playing around with:
  - CI/CD (Github/Azure DevOps)
  - Unity
  - Games - both playing and making
+ - Rust (Very rusty)
 
 ## 🌱 Learning
 
@@ -37,11 +38,10 @@ I wish to collaborate on anything really. Just want to try out what is it like t
 You can contact me via various sources, linked from most used to least:  
 
 - Reddit: https://reddit.com/user/megastary/
-- Discord: [Megastary#5093](https://discord.gg/ZH9KCS5a62)
-- E-mail: megova@prdelka.eu
+- Discord: [Megastary#0001](https://discord.gg/RDcbdadJzD)
+- E-mail: jakub@disketa.eu
 - Steam: https://steamcommunity.com/id/megastary/
 - LinkedIn: https://www.linkedin.com/in/jakub-%C5%A1indel%C3%A1%C5%99-66631a137/
-- Twitter: https://twitter.com/megastary
 
 ## 🎡 Interests
 
