@@ -29,6 +29,8 @@ I love playing around with:
 
 All I do is **learning**. Every single day. I learn by working. I work by learning. I learn by playing. I play by learning.  
 
+[![roadmap.sh](https://roadmap.sh/card/wide/66c717b192ec1a8a73b12037?variant=dark&roadmaps=ai-data-scientist%2Cmlops%2Csoftware-architect%2Cdevops)](https://roadmap.sh)
+
 ## 💞️ Collaborate
 
 I wish to collaborate on anything really. Just want to try out what is it like to do something as team.  
