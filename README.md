@@ -56,9 +56,9 @@ The very first big project of mine. Total mess, but biggest software success at 
 - **Purpose:** Internal toy-project exploring local app deployment for snacks sharing  
 - **Status:** Active in production within our HQ  
 - [Main repository](https://github.com/houby-studio/small-business-fridge)  
-- [Mobile app repository](https://github.com/)  
+- [Mobile app repository](https://github.com/aaaorg/sbf-scan)  
 
-### 🧩 Lazy Admin
+### 💤 Lazy Admin
 
 Once very promising project, until I discovered PowerShell Universal, which did it better and this was forgotten in time. Learned a lot about Electron and Quasar.js.
 
@@ -66,7 +66,7 @@ Once very promising project, until I discovered PowerShell Universal, which did 
 - **Focus:** UI for predefined scripts allowing less experienced IT admins to easily execute PowerShell functions and scripts  
 - [View repository](https://github.com/houby-studio/lazy-admin)
 
-### ☁️ Dotyker
+### 🖥️ Dotyker
 
 Very young project, still deciding on the long-term strategy. I am currently building in-house kiosk solution for our retail stores and I want to use what I learn on making somewhat simple and universal kiosk solution for everyone.
 
