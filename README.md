@@ -106,4 +106,15 @@ I wish to collaborate on anything really. Just want to try out what is it like t
 - [Email](mailto:jakub@disketa.eu)
 - [Steam](https://steamcommunity.com/id/megastary/)
 - [Reddit](https://reddit.com/user/megastary/)
-- [Discord](https://discord.gg/RDcbdadJzD) 
+- [Discord](https://discord.gg/RDcbdadJzD)
+
+## 🏅Mostly useless achievements
+
+### Sololearn
+
+<p>
+<img alt="HTML certificate" src="https://api2.sololearn.com/v2/certificates/CT-UIDQYAQ8/image/jpg" height="auto" width="235px">
+<img alt="CSS certificate" src="https://api2.sololearn.com/v2/certificates/CT-AXT67XFQ/image/jpg" height="auto" width="235px">
+<img alt="Javascript certificate" src="https://api2.sololearn.com/v2/certificates/CT-5UJNGRJR/image/jpg" height="auto" width="235px">
+<img alt="jQuery certificate" src="https://api2.sololearn.com/v2/certificates/CT-D28HJGTZ/image/jpg" height="auto" width="235px">
+</p>
