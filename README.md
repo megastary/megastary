@@ -110,11 +110,12 @@ I wish to collaborate on anything really. Just want to try out what is it like t
 
 ## 🏅Mostly useless achievements
 
-### Sololearn
+### [Sololearn](https://www.sololearn.com/en/profile/16923263)
 
-<p>
-<img alt="HTML certificate" src="https://api2.sololearn.com/v2/certificates/CT-UIDQYAQ8/image/jpg" height="auto" width="235px">
-<img alt="CSS certificate" src="https://api2.sololearn.com/v2/certificates/CT-AXT67XFQ/image/jpg" height="auto" width="235px">
-<img alt="Javascript certificate" src="https://api2.sololearn.com/v2/certificates/CT-5UJNGRJR/image/jpg" height="auto" width="235px">
-<img alt="jQuery certificate" src="https://api2.sololearn.com/v2/certificates/CT-D28HJGTZ/image/jpg" height="auto" width="235px">
+<p align="middle">
+  <img alt="HTML certificate" src="https://api2.sololearn.com/v2/certificates/CT-UIDQYAQ8/image/jpg" height="auto" width="235px">
+  <img alt="CSS certificate" src="https://api2.sololearn.com/v2/certificates/CT-AXT67XFQ/image/jpg" height="auto" width="235px">
+  <img alt="Javascript certificate" src="https://api2.sololearn.com/v2/certificates/CT-5UJNGRJR/image/jpg" height="auto" width="235px">
+  <img alt="jQuery certificate" src="https://api2.sololearn.com/v2/certificates/CT-D28HJGTZ/image/jpg" height="auto" width="235px">
+  <img alt="Introduction to SQL certificate" src="https://api2.sololearn.com/v2/certificates/CC-IHVH3VCD/image/jpg" height="auto" width="235px">  
 </p>
