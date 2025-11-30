@@ -118,6 +118,11 @@ I wish to collaborate on anything really. Just want to try out what is it like t
   <img alt="Javascript certificate" src="https://api2.sololearn.com/v2/certificates/CT-5UJNGRJR/image/jpg" height="auto" width="235px">
   <img alt="jQuery certificate" src="https://api2.sololearn.com/v2/certificates/CT-D28HJGTZ/image/jpg" height="auto" width="235px">
   <img alt="Introduction to SQL certificate" src="https://api2.sololearn.com/v2/certificates/CC-IHVH3VCD/image/jpg" height="auto" width="235px">
-  <img alt="SQL Intermediate" src="https://api2.sololearn.com/v2/certificates/CC-TDMFRC8B/image/jpg" height="auto" width="235px">
-  
+  <img alt="SQL Intermediate" src="https://api2.sololearn.com/v2/certificates/CC-TDMFRC8B/image/jpg" height="auto" width="235px">  
+</p>
+
+### [The Linux Foundation](https://training.linuxfoundation.org/)
+
+<p align="middle">
+    <img alt="Getting Started with OpenTelemetry" src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" height="auto" width="235px">
 </p>
