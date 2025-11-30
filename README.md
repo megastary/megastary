@@ -121,7 +121,7 @@ I wish to collaborate on anything really. Just want to try out what is it like t
   <img alt="SQL Intermediate" src="https://api2.sololearn.com/v2/certificates/CC-TDMFRC8B/image/jpg" height="auto" width="235px">  
 </p>
 
-### [The Linux Foundation](https://training.linuxfoundation.org/)
+### [Credly](https://www.credly.com/users/jakub-sindelar/badges)
 
 <p align="middle">
     <img alt="Getting Started with OpenTelemetry" src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" height="auto" width="235px">
