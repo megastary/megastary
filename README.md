@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jakub
 
-I’m currently the Infrastructure Lead at the largest pool and garden retail company in the Czech Republic.  
+I’m currently the Enterprise Architect at the largest pool and garden retail company in the Czech Republic.  
 Over the years, I advanced from an IT Systems Specialist to leading the infrastructure team, taking on diverse responsibilities motivated by my passion for innovation and experimentation.
 
 I focus on **bridging traditional enterprise environments (VMware, Azure)** with **open-source automation, self-hosting, and IaC**.  
@@ -10,13 +10,13 @@ Both at work and at home, I explore FOSS solutions and strive to create sustaina
 
 ## 🧠 Professional Focus
 
-- **Infrastructure Management:** Proxmox, VMware vSphere, Hyper-V  
+- **Infrastructure Management:** Proxmox, ~~VMware vSphere~~, ~~Hyper-V~~  
 - **Cloud & Services:** Microsoft Azure, Azure DevOps, M365  
 - **Automation & IaC:** Ansible, OpenTofu, CI/CD pipelines, Azure DevOps pipeline, Forgejo Actions  
 - **Programming & Scripting:** PowerShell, Bash, JavaScript, Typescript  
 - **Monitoring & Observability:** OpenTelemetry, Prometheus, Grafana  
-- **OS & Systems:** Linux (Debian/Ubuntu), Windows Server
-- **✨AI**: All the new shiny things, can't decide which ones are the best and will prevail - Currently fan of n8n
+- **OS & Systems:** Linux (Debian/Ubuntu), ~~Windows Server~~
+- **✨AI**: All the new shiny things, can't decide which ones are the best and will prevail - Currently fan of Claude Code
 
 ---
 
@@ -25,11 +25,11 @@ Both at work and at home, I explore FOSS solutions and strive to create sustaina
 My homelab serves as a sandbox for continuous learning and experimentation.  
 I use it to test ideas before introducing them in production and to build fully self-hosted services.
 
-- 3-node **Proxmox cluster**
+- ~~3-node~~ **Proxmox cluster**
 - **TrueNAS Scale** for media and backups
 - **Forgejo Git server** with integrated CI/CD using Forgejo Actions  
 - Automated deployments via **OpenTofu + Ansible**  
-- Self-hosted ecosystem: Vaultwarden, Forgejo, Bookstack, Mailcow, Keycloak, Immich, etc.  
+- Self-hosted ecosystem: Vaultwarden, Forgejo, Bookstack, Mailcow, Keycloak, Immich, n8n, Outline, etc.  
 - Continuous experimentation with containerized applications and hybrid integrations
 
 > Goal: build a **resilient, private, and fully automated environment** that mirrors enterprise-grade principles — without dependency on big vendors.
@@ -51,12 +51,13 @@ I love exploring collaboration methods so even with one-man projects I create Gi
 ### 🧃 Small Business Fridge
 
 The very first big project of mine. Total mess, but biggest software success at our company, everyone loves it!  
+Recently I have sort of vibecoded (guided agentic development) complete v3 rewrite to AdonisJS + PostgreSQL + Vue3
 
-- **Stack:** Express.js, MongoDB, Handlebars, Bootstrap  
+- **Stack:** ~~Express.js, MongoDB, Handlebars, Bootstrap~~  AdonisJS 7, PostgreSQL, Vue3 (PrimeVue)
 - **Purpose:** Internal toy-project exploring local app deployment for snacks sharing  
 - **Status:** Active in production within our HQ  
-- [Main repository](https://github.com/houby-studio/small-business-fridge)  
-- [Mobile app repository](https://github.com/aaaorg/sbf-scan)  
+- [View repository](https://github.com/houby-studio/small-business-fridge)  
+- ~~[Mobile app repository](https://github.com/aaaorg/sbf-scan)~~ Waits for rewrite for v3 compatibility
 
 ### 💤 Lazy Admin
 
@@ -68,7 +69,8 @@ Once very promising project, until I discovered PowerShell Universal, which did 
 
 ### 🖥️ Dotyker
 
-Very young project, still deciding on the long-term strategy. I am currently building in-house kiosk solution for our retail stores and I want to use what I learn on making somewhat simple and universal kiosk solution for everyone.
+Very young project, still deciding on the long-term strategy. I am currently building in-house kiosk solution for our retail stores and I want to use what I learn on making somewhat simple and universal kiosk solution for everyone.  
+Currently sort of paused, rethinking the goals of the project.
 
 - **Stack:** Quasar.js, Ubuntu Core (snap)  
 - **Use Case:** Simple, totally free kiosk solution solving the most common use cases for small to medium companies.
@@ -102,8 +104,8 @@ I wish to collaborate on anything really. Just want to try out what is it like t
 
 ## 📫 Connect
 
-- [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/jakub-%C5%A1indel%C3%A1%C5%99-66631a137/))  
-- [Email](mailto:jakub@disketa.eu)
+- [LinkedIn](https://www.linkedin.com/in/jakub-%C5%A1indel%C3%A1%C5%99-66631a137/)
+- [Email](mailto:megastary@proton.me)
 - [Steam](https://steamcommunity.com/id/megastary/)
 - [Reddit](https://reddit.com/user/megastary/)
 - [Discord](https://discord.gg/RDcbdadJzD)
